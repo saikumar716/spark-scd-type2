@@ -8,8 +8,8 @@ After every run, save the updated data to Hive table in ORC format with Snappy c
 Hive table:
 Scala Application output Table   - yelp_data_scala_sbhange.yelp_user_hist
 
-Table Directory                  - /user/sahilbhange/scala/yelp_hist/
+Table Directory                  - /*/yelp_hist/
 
 Pyspark Application output Table - yelp_data_spark_df_sbhange.yelp_user_hist
 
-Table Directory                  - /user/sahilbhange/spark_df/
+Table Directory                  - /*/spark_df/
